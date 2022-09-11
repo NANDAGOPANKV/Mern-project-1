@@ -1,0 +1,12 @@
+use this link to start YT : 
+https://www.youtube.com/watch?v=nUbMEUsNDpg&list=PLb63F51j66d-y5HK-rw74813iWB-hrd1a&index=2
+
+completed first mern stack application
+
+echo "# Mern-project-1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NANDAGOPANKV/Mern-project-1.git
+git push -u origin main
